@@ -1,3 +1,3 @@
 Team members: vvasantarao and B-USERNAME
-Favorite programming language: TBD
-Team motto: TBD
+Favorite programming language: Python
+Team motto: Keep it simple
